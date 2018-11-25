@@ -1,7 +1,10 @@
 #Up The Ladder
 
-	Up The Ladder is a unique platform for enthusiastic undergraduates and working professionals. The vision is to help everyone grow into whatever they want to be, the idea is to help people answer the question “Where do you see yourself in the next 5 years?”.
-  
+Up The Ladder is a unique platform for enthusiastic undergraduates
+and working professionals. The vision is to help everyone grow into
+whatever they want to be, the idea is to help people answer the question
+“Where do you see yourself in the next 5 years?”.
+	
   Our USP:
   
   
